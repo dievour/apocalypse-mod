@@ -1,0 +1,29 @@
+{
+  "id": "apocalypse-mod",
+  "name": "Apocalypse",
+  "version": "0.0.0",
+  "min_manager_version": "1.0.0",
+  "author": "Despair",
+  "contact": "https://github.com/dievour/apocalypse-mod",
+  "description": "Apocalypse Mod for Resident Evil Outbreak FILE #1.",
+  "tags": ["stage"],
+  "games": [
+    {
+      "game_id": "re_outbreak_f1",
+      "supported_regions": ["NTSC-J"],
+      "crc_f1": "6D0D7006"
+    }
+  ],
+  "releases": [
+    {
+      "version": "0.0.0",
+      "released_at": "2026-04-23T00:00:00Z",
+      "download_url": "https://github.com/dievour/apocalypse-mod/releases/download/v0.0.0/apocalypse-mod-v0.0.0.zip",
+      "file_size_bytes": 0,
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "changelog": [
+        "Initial release."
+      ]
+    }
+  ]
+}
