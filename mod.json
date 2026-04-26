@@ -1,0 +1,84 @@
+{
+  "id": "apocalypse-mod",
+  "name": "Apocalypse",
+  "version": "1.1.0",
+  "min_manager_version": "1.0.0",
+  "author": "Despair",
+  "contributors": ["Machi", "SairentoZ7", "LLS", "Footpowderspray.exe"],
+  "contact": "https://github.com/dievour/apocalypse-mod",
+  "description": "Apocalypse Mod for Resident Evil Outbreak FILE #1 & FILE #2.",
+  "tags": ["stage"],
+  "games": [
+    {
+      "game_id": "re_outbreak_f1",
+      "supported_regions": ["NTSC-J"],
+      "crc_f1": "6D0D7006"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.1.0",
+      "released_at": "2026-04-23T00:00:00Z",
+      "changelog": [
+        "Outbreak: Revised travelling zombie behaviour throughout the scenario.",
+        "Outbreak: Increased the rooftop escape timer for Easy and Normal difficulties.",
+        "Outbreak: Set footbridge enemies to respawn.",
+        "Outbreak: Increased the Main Street explosion timer.",
+        "Outbreak: Minor item economy adjustments.",
+        "Outbreak: Adjusted item placement in front of J's Bar.",
+        "Outbreak: Removed a duplicate Storage Key instance.",
+        "Outbreak: Fixed an incorrect shutter animation.",
+        "Outbreak: Fixed a bug causing the Dorian dialogue sequence to freeze the game.",
+        "Below Freezing Point: Minor item economy adjustments.",
+        "Below Freezing Point: Updated the photo item description text.",
+        "The Hive: Revised shutter zombie behaviour in the Central Waiting Room.",
+        "The Hive: Adjusted enemy placement in the Waste Liquid Disposal Room.",
+        "The Hive: Adjusted item placement in the Waste Liquid Disposal Room.",
+        "The Hive: Restored a missing item for Alyssa's drawer in the Office.",
+        "Hellfire: Increased enemy count throughout the scenario.",
+        "Hellfire: Updated the Ring Bell item description.",
+        "Hellfire: Updated the Lounge Stairs and 3F Door description text.",
+        "Hellfire: Fixed a spelling error in Amelia's dialogue.",
+        "Decisions, Decisions: Reduced the university explosion timer.",
+        "Decisions, Decisions: Reduced the nuke timer.",
+        "Decisions, Decisions: Increased enemy count throughout the scenario.",
+        "Decisions, Decisions: It is no longer possible to complete both B2F and B4F objectives in a single linear run.",
+        "Decisions, Decisions: The shed door is now locked and unbreakable.",
+        "Decisions, Decisions: Updated the broken knob door description text.",
+        "Decisions, Decisions: Fixed a bug causing the V-Poison to revert to a Depleted P-Base upon presentation.",
+        "General: Created a custom SLPM file for the fast loading method.",
+        "General: Significantly reduced Grenade Launcher BOW rounds damage against doors."
+      ],
+      "archives": [
+        {
+          "filename": "apocalypse-mod-f1-v1.1.0-exec.zip",
+          "description": "ELF executable and core game folders",
+          "download_url": "https://github.com/dievour/apocalypse-mod/releases/download/v1.1.0/apocalypse-mod-f1-v1.1.0-exec.zip",
+          "file_size_bytes": 0,
+          "sha256": "D714581EEAA0EB1796C2C7A9FAA326B574C3D16A3C9000DCE449BEC58FD5D0B5"
+        },
+        {
+          "filename": "apocalypse-mod-f1-v1.1.0-netbio00.zip",
+          "description": "NETBIO00.DAT game data archive",
+          "download_url": "https://github.com/dievour/apocalypse-mod/releases/download/v1.1.0/apocalypse-mod-f1-v1.1.0-netbio00.zip",
+          "file_size_bytes": 0,
+          "sha256": "1DEF8854F55EBE8695CC7DFB90FE3A152BCA27C987F7C72B561B21E3B61429F3"
+        },
+        {
+          "filename": "apocalypse-mod-f1-v1.1.0-netbio01.zip",
+          "description": "NETBIO01.DAT game data archive",
+          "download_url": "https://github.com/dievour/apocalypse-mod/releases/download/v1.1.0/apocalypse-mod-f1-v1.1.0-netbio01.zip",
+          "file_size_bytes": 0,
+          "sha256": "9A94B50AD541B2088FD553F171C9C64B02BEAA20067C2ABF2F6828099E8A12E4"
+        },
+        {
+          "filename": "apocalypse-mod-f1-v1.1.0-netbio02.zip",
+          "description": "NETBIO02.DAT game data archive",
+          "download_url": "https://github.com/dievour/apocalypse-mod/releases/download/v1.1.0/apocalypse-mod-f1-v1.1.0-netbio02.zip",
+          "file_size_bytes": 0,
+          "sha256": "F53C8BCFFE8267B5E3E7C5BDEE382D437AF06667C94791F70E7628B89943FCB1"
+        }
+      ]
+    }
+  ]
+}
